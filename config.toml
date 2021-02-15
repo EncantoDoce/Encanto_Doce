@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "pt-br"
+title = "ENCANTO DOCE"
+theme = "ananke"
+
+sectionPagesMenu = "main"
+disqusShortname = " disqus-example "
