@@ -1,0 +1,4 @@
+[submodule "gopheriomeetup.github.io"]
+	path = gopheriomeetup.github.io
+	url = git@github.com:gopheriomeetup/gopheriomeetup.github.io.git
+	branch = master
